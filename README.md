@@ -2,16 +2,11 @@
 VersaMind is a lightweight, intelligent AI tool designed to streamline business communication by efficiently summarizing lengthy documents and drafting professional emails. Built on the Microsoft Phi-3 Mini 4K Instruct model and leveraging key NLP techniques, VersaMind simplifies document analysis and accelerates workflows.
 
 ---
-
 ### 🚀 Features
+
 • **Multi-Format Support**: Handles documents in .pdf, .docx, and .txt formats.
-
 • **Intelligent Summarization**: Extracts, cleans, and chunks document content to provide accurate, context-aware summaries using the Phi-3 Mini LLM.
-
-• **Professional Email Drafting**: Automatically generates concise and professional email drafts.
-
 • **Configurable Tone**: The email drafting feature can be customized for different tones and styles.
-
 • **Lightweight & Efficient**: Optimized for local execution, ensuring data privacy and fast performance.
 
 ---
