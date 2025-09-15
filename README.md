@@ -76,6 +76,7 @@ Follow the CLI prompts to input a document and generate a summary or draft email
 
 
 ---
+
 ## 📬 Contact
 For questions or collaboration, you can reach out at:
 
