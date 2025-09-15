@@ -5,8 +5,11 @@ VersaMind is a lightweight, intelligent AI tool designed to streamline business 
 ### 🚀 Features
 
 • **Multi-Format Support**: Handles documents in .pdf, .docx, and .txt formats.
+
 • **Intelligent Summarization**: Extracts, cleans, and chunks document content to provide accurate, context-aware summaries using the Phi-3 Mini LLM.
+
 • **Configurable Tone**: The email drafting feature can be customized for different tones and styles.
+
 • **Lightweight & Efficient**: Optimized for local execution, ensuring data privacy and fast performance.
 
 ---
@@ -62,6 +65,7 @@ Follow the CLI prompts to input a document and generate a summary or draft email
 ---
 
 ### 🎯 Future Enhancements
+
 • Develop a Web UI using Streamlit or Flask,React.
 
 • Add multiple tone options for email drafts (e.g., formal, friendly).
