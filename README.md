@@ -77,6 +77,16 @@ Follow the CLI prompts to input a document and generate a summary or draft email
 
 ---
 
+## 🙋‍♂️ Author
+
+• Mentor / Manager: Mr. Venkata Ramana Sudhakar Polavarapu
+
+• Mudimala Yeshwanth Goud
+
+ 🛠️ Passionate about AI/ML, NLP, RAG, Data Science, system programming, full-stack development, and intelligent assistant systems.
+
+---
+
 ## 📬 Contact
 For questions or collaboration, you can reach out at:
 
