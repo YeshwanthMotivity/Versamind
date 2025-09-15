@@ -74,9 +74,9 @@ Follow the CLI prompts to input a document and generate a summary or draft email
 
 • Add a feature to save or export generated summaries and emails.
 
+
 ---
-### 📬 Contact
-For questions, feedback, or contributions:
+## 📬 Contact
+For questions or collaboration, you can reach out at:
 
-📧 yeshwanth.mudimala@motivitylabs.com
-
+**Email 📧** : yeshwanth.mudimala@motivitylabs.com
