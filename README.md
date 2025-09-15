@@ -5,9 +5,13 @@ VersaMind is a lightweight, intelligent AI tool designed to streamline business 
 
 ### 🚀 Features
 • **Multi-Format Support**: Handles documents in .pdf, .docx, and .txt formats.
+
 • **Intelligent Summarization**: Extracts, cleans, and chunks document content to provide accurate, context-aware summaries using the Phi-3 Mini LLM.
+
 • **Professional Email Drafting**: Automatically generates concise and professional email drafts.
+
 • **Configurable Tone**: The email drafting feature can be customized for different tones and styles.
+
 • **Lightweight & Efficient**: Optimized for local execution, ensuring data privacy and fast performance.
 
 ---
@@ -46,23 +50,29 @@ VersaMind/
 **🧰 Requirements**
 
 • Install required libraries:
-
+ ```
 pip install -r requirements.txt  # or install manually:
 pip install torch transformers pymupdf python-docx
+ ```
 
 **▶️ Execution**
 
-Run the summarizer and email drafter:
+• Run the summarizer and email drafter:
 
+ ```
 python versamind_–_smart_document_summarizer_&_email_drafter.py
 Follow the CLI prompts to input a document and generate a summary or draft email.
+ ```
 
 ---
 
 ### 🎯 Future Enhancements
 • Develop a Web UI using Streamlit or Flask,React.
+
 • Add multiple tone options for email drafts (e.g., formal, friendly).
+
 • Implement support for multi-document summarization.
+
 • Add a feature to save or export generated summaries and emails.
 
 ---
