@@ -68,8 +68,8 @@ Note: our Colab T4 GPU has ~14.7 GB VRAM, and the Phi-3 model is large. It consu
 gradio: A tool to create web-based UIs for AI models, making it easy to interact with them.
 """
 
-!pip install -U bitsandbytes transformers accelerate gradio
-!pip install PyMuPDF python-docx
+# Required packages should be installed via requirements.txt
+# pip install -U bitsandbytes transformers accelerate gradio PyMuPDF python-docx
 
 """📦 Import Libraries
 
