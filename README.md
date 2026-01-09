@@ -35,32 +35,35 @@ VersaMind is a lightweight, intelligent AI tool designed to streamline business 
 ---
 
 ### 📂 Project Structure
- ```
-VersaMind/
-├── versamind_–_smart_document_summarizer_&_email_drafter.py  # Main script
-├── README.md                                                 # Project documentation
- ```
+
+```
+Versamind-main/
+├── notebooks/
+│   └── VersaMind.ipynb      # Original Jupyter Notebook for experimentation
+├── versamind.py             # Main executable Python script
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
+```
 
 ---
 
-### 💻 Run Locally
+### 💻 Installation & Usage
 
-**🧰 Requirements**
+#### 1. Prerequisites
+*   Python 3.10 or higher installed.
+*   **GPU Recommended**: This project uses 4-bit quantization which requires a CUDA-capable GPU for optimal performance. It may not run correctly on CPU-only machines.
 
-• Install required libraries:
- ```
-pip install -r requirements.txt  # or install manually:
-pip install torch transformers pymupdf python-docx
- ```
+#### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+*Note: You may need to install PyTorch manually ensuring it matches your CUDA version if the default install fails to detect your GPU.*
 
-**▶️ Execution**
-
-• Run the summarizer and email drafter:
-
- ```
-python versamind_–_smart_document_summarizer_&_email_drafter.py
-Follow the CLI prompts to input a document and generate a summary or draft email.
- ```
+#### 3. Run the Application
+```bash
+python versamind.py
+```
+This will launch a local Gradio interface (usually at `http://127.0.0.1:7860`).
 
 ---
 
